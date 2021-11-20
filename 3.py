@@ -1,6 +1,6 @@
 import math
 import random
-from random import randint
+from import randint
 
 def RSA(p, q):
     n = p * q
